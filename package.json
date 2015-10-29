@@ -13,8 +13,8 @@
   "dependencies": {
     "babel": "^5.8.29",
     "doc-ready": "^1.0.3",
-    "react": "0.14.1",
-    "react-dom": "0.14.1"
+    "react": "0.14.0",
+    "react-dom": "0.14.0"
 
   },
   "devDependencies": {
